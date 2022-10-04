@@ -1,0 +1,49 @@
+.Contacts {
+  margin-top: 10px;
+  height: 100px;
+  padding:20px;
+  color: darkblue;
+  background-color: #2faef0;
+  text-align: center;
+  justify-content: space-between;
+}
+@media screen and (max-width: 896px) {
+  .Contacts > h3{
+    font-size: x-large;
+  }
+}
+@media screen and (max-width: 768px) {
+  .Contacts {
+    margin-top: 10px;
+    height: 100px;
+    padding:20px;
+    color: darkblue;
+    background-color: #2faef0;
+    text-align: center;
+    justify-content: space-between;
+  }
+.Contacts > h3{
+  font-size: large;
+}
+}
+@media screen and (max-width: 896px) {
+  .Contacts > h3{
+    font-size: x-large;
+  }
+}
+@media screen and (max-width: 640px) {
+.Contacts{
+margin-top: 10px;
+}
+.Contacts > h3 {
+  font-size: large;
+}
+}
+@media screen and (max-width: 320px) {
+  .Contacts{
+    margin-top: 10px;
+    }
+    .Contacts > h3 {
+      font-size: small;
+    }
+}
