@@ -1,0 +1,234 @@
+.mainContainer{
+    padding: 40px;
+}
+.containerA{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+.containerA1{
+    width: 50%;
+    margin-right: 20px;
+    
+}
+.containerA1 img
+{
+    width:100%;
+    border-radius: 10px;
+}
+.containerA2{
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding:0 20px;
+    color: aliceblue;
+    width: 50%;
+    background-color: #004d8b;
+    
+}
+
+.containerB{
+    margin-top: 25px;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+.containerB1{
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding:0 20px;
+    color: aliceblue;
+    width: 50%;
+    margin-right: 20px;
+    background-color: #2faef0;
+}
+.containerB2{
+    width: 50%;
+}
+.containerB2 > img{
+    width:100%;
+    border-radius: 10px;
+}
+@media only screen and (max-width: 896px) {
+.containerA{
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerA1{
+        width: 50%;
+        margin-right: 20px;
+        
+    }
+    .containerA1 img
+    {
+        width:100%;
+        border-radius: 10px;
+    }
+    .containerA2{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        background-color: #004d8b;
+        
+    }
+    .containerA2 > h2{
+        font-size: x-large;
+    }
+    
+    .containerB{
+        margin-top: 25px;
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerB1{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        margin-right: 20px;
+        background-color: #2faef0;
+    }
+    .containerB1 > h2{
+        font-size: x-large;
+    }
+    .containerB2{
+        width: 50%;
+    }
+    .containerB2 > img{
+        width:100%;
+        border-radius: 10px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .containerA{
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerA1{
+        width: 50%;
+        margin-right: 20px;
+        
+    }
+    .containerA1 img
+    {
+        width:100%;
+        border-radius: 10px;
+    }
+    .containerA2{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        background-color: #004d8b;
+        
+    }
+    .containerA2 > h2{
+        font-size: large;
+    }
+    
+    .containerB{
+        margin-top: 25px;
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerB1{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        margin-right: 20px;
+        background-color: #2faef0;
+    }
+    .containerB1 > h2{
+        font-size: large;
+    }
+    .containerB2{
+        width: 50%;
+    }
+    .containerB2 > img{
+        width:100%;
+        border-radius: 10px;
+    }
+}
+@media only screen and (max-width: 640px) {
+
+    .containerA2 > h2{
+            font-size: large;
+    }
+    .containerB1 > h2{
+        font-size: large;
+    }
+  }
+  @media only screen and (max-width: 320px) {
+    .containerA{
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerA1{
+        width: 50%;
+        margin-right: 20px;
+        
+    }
+    .containerA1 img
+    {
+        width:100%;
+        height: 100px;
+        border-radius: 10px;
+    }
+    .containerA2{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        background-color: #004d8b;
+        
+    }
+    .containerA2 > h2{
+        font-size: xx-small;
+    } 
+
+    .containerB{
+        margin-top: 25px;
+        width:100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .containerB1{
+        display: flex;
+        align-items: center;
+        border-radius: 10px;
+        padding:0 20px;
+        color: aliceblue;
+        width: 50%;
+        margin-right: 20px;
+        background-color: #2faef0;
+    }
+    .containerB1 > h2{
+        font-size: xx-small;
+    }
+    .containerB2{
+        width: 50%;
+    }
+    .containerB2 > img{
+        width:100%;
+        height: 100px;
+        border-radius: 10px;
+    }
+  }
