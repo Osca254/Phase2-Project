@@ -1,0 +1,99 @@
+.Navbar{
+    padding: 0 40px;
+    height: 100px;
+    background-color: #acddfb;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #okumu_home{
+    color: #5c607a;
+    font-weight: 900;
+    font-size: 50px;
+  }
+  .Navbar > .linkStyling a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #5c607a;
+    font-size: x-large;
+    margin-right:20px ;
+  }
+  @media screen and (max-width:896px){
+    .Navbar{
+      padding: 0 30px;
+      height: 100px;
+      background-color: #acddfb;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #okumu_home{
+      color: #5c607a;
+      font-weight: 900;
+      font-size: 45px;
+    }
+    .Navbar > .linkStyling a{
+      margin-left: 20px;
+      text-decoration: none;
+      color: #5c607a;
+      font-size: x-large;
+      margin-right:20px ;
+    }
+  }
+  @media screen and (max-width:768px){
+    .Navbar{
+      padding: 0 40px;
+      height: 100px;
+      background-color: #acddfb;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #okumu_home{
+      color: #5c607a;
+      font-weight: 900;
+      font-size: 30px;
+    }
+    .Navbar > .linkStyling a{
+      margin-left: 20px;
+      text-decoration: none;
+      color: #5c607a;
+      font-size:large;
+      margin-right:20px ;
+    }}
+  
+  @media screen and (max-width:640px){
+  .Navbar{
+  display:flex;
+  flex-direction: column;
+  padding:12px 0;
+  }
+  #okumu_home{
+  font-size: 35px;
+  }
+  .Navbar > .linkStyling a{
+  font-size: large;
+  }
+  }
+  @media screen and (max-width:320px){
+    .Navbar{
+      padding: 10 10px;
+      height: 85px;
+      background-color: #acddfb;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    #okumu_home{
+      color: #5c607a;
+      font-weight: 900;
+      font-size: 20px;
+    }
+    .Navbar > .linkStyling a{
+      margin-left: 12px;
+      text-decoration: none;
+      color: #5c607a;
+      font-size:15px;
+      margin-right:10px ;
+    }
+  }
