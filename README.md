@@ -6,6 +6,7 @@
  ## Project Description : This project entails provision for a platform for registering houses as well as viewing the houses already registered
  ## Technologies used
    Html- for general structure of the application
+   
    React - Aframework for frontend development
  ### Okumu Homes is a web application that seeks to connect home buyers with individuals selling their homes.
 
