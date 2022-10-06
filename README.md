@@ -9,6 +9,12 @@
    
    React - Aframework for frontend development
  ### Okumu Homes is a web application that seeks to connect home buyers with individuals selling their homes.
+   - A successful resource >> `http://localhost:5000/housesdata` << should be created that allows you to `GET` and `POST` data upon clicking the ` submit` button under the register house Component
+
+
+4.  ###  The web page project is now readily available for interaction
+
+5.  ### Run `npm start` from a new terminal in the same directory of your cloned application will run the application on a browser.
 
 ## Copyright and License Information: 
                                Copyright (c) [2022] [Oscar Okumu]
