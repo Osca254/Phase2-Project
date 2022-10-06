@@ -4,19 +4,7 @@
 ### Written by : Oscar Okumu
 
  ## Project Description :
- ### Tasha Homes is a web application that seeks to connect home buyers with individuals selling their homes.
-
-## Project Setup Instructions: 
-
-1. ###  Install json server to your machine and ensure it is done globally
-
-2. ###  Clone the project to your local machine and on successful cloning, change the directory to the cloned folder says-my-vertinary.>>
-
-4.  ###  The web page project is now readily available for interaction
-
-5.  ### Run `npm start` from a new terminal in the same directory of your cloned application will run the application on a browser.
-
-    You will be able to view it in the browser via the link >>http://localhost:3000<<
+ ### Okumu Homes is a web application that seeks to connect home buyers with individuals selling their homes.
 
 ## Copyright and License Information: 
                                Copyright (c) [2022] [Oscar Okumu]
