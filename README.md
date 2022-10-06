@@ -1,6 +1,4 @@
 # Project Name : Okumu Homes
-
-
 ### Written by : Oscar Okumu
 
  ## Project Description : This project entails provision for a platform for registering houses as well as viewing the houses already registered
@@ -12,11 +10,13 @@ Project entails creation of a website meant for an organisation called Vallie's 
    React - Aframework for frontend development
  ### Okumu Homes is a web application that seeks to connect home buyers with individuals selling their homes.
    - A successful resource >> `http://localhost:5000/housesdata` << should be created that allows you to `GET` and `POST` data upon clicking the ` submit` button under the register house Component
+# Setup
+To initiate this work get it from git hub through cloning with the aid of liveserver provided in the virtual studio .
+Make sure your machine is installed with vs code and chrome for compatibility.
 
+  ###  The web page project is now readily available for interaction
 
-4.  ###  The web page project is now readily available for interaction
-
-5.  ### Run `npm start` from a new terminal in the same directory of your cloned application will run the application on a browser.
+  ### Run `npm start` from a new terminal in the same directory of your cloned application will run the application on a browser.
 
 ## Copyright and License Information: 
                                Copyright (c) [2022] [Oscar Okumu]
